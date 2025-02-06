@@ -1,0 +1,1 @@
+This new feature will include user authentication enhancements and UI improvements.
